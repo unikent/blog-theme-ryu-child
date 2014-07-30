@@ -1,4 +1,9 @@
 <?php
+
+//Force IE Mode to max
+header('X-UA-Compatible: IE=edge,chrome=1');
+
+
 /**
  * The Header for our theme.
  *
